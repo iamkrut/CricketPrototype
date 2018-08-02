@@ -1,6 +1,8 @@
 # CRICKET PROTOTYPE
 ### Gameplay
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/https://youtu.be/-dPnljPxPdA/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/-dPnljPxPdA "Cricket Prototype")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=-dPnljPxPdA"><img src="https://img.youtube.com/vi/-dPnljPxPdA/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 ### UI Layout 
 ![alt text](https://github.com/KrutPatel2257/CricketPrototype/blob/master/CricketPrototype.png)
